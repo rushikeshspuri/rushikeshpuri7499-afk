@@ -129,7 +129,7 @@ while(success != true)
     keepCoding();
     stayConsistent();
 }
-
+```
 <div align="center">
 
 ## 🔥 Show up every day.  
