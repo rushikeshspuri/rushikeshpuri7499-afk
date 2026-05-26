@@ -1,20 +1,17 @@
-# 🚀 Ultimate GitHub Profile README for Rushikesh Puri
-
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=220&section=header&text=Rushikesh%20Puri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Daily%20Coder%20%7C%20Building%20In%20Public&descAlignY=58&descAlign=50" width="100%" />
 
 # 👋 Hey, I'm Rushikesh Puri
+
 ### 💻 CS Student | 🔥 Consistent Coder | 🚀 Future Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=C+%7C+C%2B%2B+%7C+Java+Developer;Learning+DSA+and+Problem+Solving;Building+Projects+and+Assignments;Future+Python+and+C%23+Developer;Coding+Every+Single+Day+🔥" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=C+%7C+C%2B%2B+%7C+Java+Developer;Learning+DSA+and+Problem+Solving;Building+Projects+and+Assignments;Future+Python+and+C%23+Developer;Coding+Every+Single+Day+🔥" />
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rushikeshpuri7499-afk&color=blueviolet&style=for-the-badge)](https://visitcount.itsvg.in)
-[![GitHub followers](https://img.shields.io/github/followers/rushikeshpuri7499-afk?style=for-the-badge&color=blue)](https://github.com/rushikeshpuri7499-afk)
-[![GitHub Stars](https://img.shields.io/github/stars/rushikeshpuri7499-afk?style=for-the-badge&color=yellow)](https://github.com/rushikeshpuri7499-afk)
+![](https://komarev.com/ghpvc/?username=rushikeshpuri7499-afk&color=blueviolet&style=for-the-badge)
+![](https://img.shields.io/github/followers/rushikeshpuri7499-afk?style=for-the-badge&color=blue)
 
 ### ✨ "I don't just learn to code. I code to learn."
 
@@ -59,27 +56,21 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikeshpuri7499-afk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikeshpuri7499-afk&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpuri7499-afk&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpuri7499-afk&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=rushikeshpuri7499-afk&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=rushikeshpuri7499-afk&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -131,8 +122,6 @@
 
 # ⚡ Fun Fact
 
-<div align="center">
-
 ```cpp
 while(success != true)
 {
@@ -140,19 +129,3 @@ while(success != true)
     keepCoding();
     stayConsistent();
 }
-````
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer" width="100%" />
-
-## 🔥 Show up every day. Watch what happens in a year.
-
-### ⭐ From [Rushikesh Puri](https://github.com/rushikeshpuri7499-afk)
-
-</div>
-```
