@@ -56,25 +56,25 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,git,github,vscode,idea" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div>
-
----
 
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikeshpuri7499-afk&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikeshpuri7499-afk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpuri7499-afk&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpuri7499-afk&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-<img src="https://streak-stats.demolab.com?user=rushikeshpuri7499-afk&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rushikeshpuri7499-afk&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
-
----
 
 # 🏆 GitHub Trophies
 
