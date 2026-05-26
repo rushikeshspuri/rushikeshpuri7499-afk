@@ -68,23 +68,21 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikeshpuri7499-afk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikeshpuri7499-afk&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpuri7499-afk&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpuri7499-afk&layout=compact&theme=radical&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=rushikeshpuri7499-afk&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=rushikeshpuri7499-afk&theme=radical&hide_border=true"/>
 
 </div>
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rushikeshpuri7499-afk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rushikeshpuri7499-afk&theme=radical" />
 
 </div>
-
----
 
 # 📈 Contribution Graph
 
