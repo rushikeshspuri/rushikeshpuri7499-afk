@@ -68,11 +68,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushikeshpuri7499-afk&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshpuri7499-afk&theme=radical&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshpuri7499-afk&layout=compact&theme=radical&hide_border=true"/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=rushikeshpuri7499-afk&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rushikeshpuri7499-afk&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rushikeshpuri7499-afk&theme=radical" />
 
 </div>
 
@@ -127,3 +129,14 @@ while(success != true)
     keepCoding();
     stayConsistent();
 }
+
+<div align="center">
+
+## 🔥 Show up every day.  
+### Come back one year later and you won’t recognize yourself.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer" width="100%" />
+
+### ⭐ From [Rushikesh Puri](https://github.com/rushikeshpuri7499-afk)
+
+</div>
