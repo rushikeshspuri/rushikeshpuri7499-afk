@@ -94,11 +94,11 @@ Programming
 
 ---
 
-## Skills I Am Building
+## Skills & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,mongodb,mysql,git,github,vscode,idea" />
 
 </div>
 
@@ -109,7 +109,13 @@ Programming
     <td align="center"><b>C</b><br>Logic building and fundamentals</td>
     <td align="center"><b>C++</b><br>OOP and problem solving</td>
     <td align="center"><b>Java</b><br>Core programming and structure</td>
-    <td align="center"><b>JavaScript</b><br>Web development basics</td>
+    <td align="center"><b>JavaScript</b><br>Web development</td>
+  </tr>
+  <tr>
+    <td align="center"><b>MongoDB</b><br>Database</td>
+    <td align="center"><b>MySQL</b><br>Database</td>
+    <td align="center"><b>VS Code</b><br>Code editor</td>
+    <td align="center"><b>IntelliJ IDEA</b><br>Java IDE</td>
   </tr>
 </table>
 
