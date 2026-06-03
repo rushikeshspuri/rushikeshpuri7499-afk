@@ -1,158 +1,119 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0D1117,30:0A3D62,70:1A6B8A,100:00D4FF&text=Rushikesh%20Puri&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Code%20%7C%20Logic%20%7C%20Engineer%20in%20Progress&descSize=18&descAlignY=60&animation=fadeIn&stroke=00D4FF&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:0A2540,50:003566,75:006DAA,100:00B4D8&text=Rushikesh%20Puri&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=💻%20Code%20%7C%20🧠%20Logic%20%7C%20🚀%20Engineer%20in%20Progress&descSize=20&descAlignY=58&animation=fadeIn&stroke=00B4D8&strokeWidth=1.5" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🔥+Hey+there%2C+I'm+Rushikesh+Puri!;💻+Learning+C+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;🧠+Logic+Builder+%7C+Daily+Coder;📂+My+GitHub+%3D+My+Learning+Journal;🎯+Destination%3A+Software+Engineer)](https://github.com/rushikeshspuri)
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=700&lines=🔥+Learning+%7C+Building+%7C+Growing+Every+Day;💻+C+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;🧠+Logic+First.+Syntax+Second.;🚀+Future+Software+Engineer+in+the+Making;📂+My+GitHub+%3D+My+Public+Learning+Journal)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
+[![Gmail](https://img.shields.io/badge/Gmail-rushikesh.puri7499@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikesh.puri7499@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh~puri)
+[![X](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rushi_codes)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/30_rushii)
 
-<a href="https://github.com/rushikeshspuri/Programming">
-  <img src="https://img.shields.io/badge/🗂️_Main_Repo-Programming-00D4FF?style=for-the-badge&labelColor=0D1117" />
-</a>
-<a href="mailto:rushikesh.puri7499@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&labelColor=0D1117" />
-</a>
-<a href="https://linkedin.com/in/rushikesh~puri">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" />
-</a>
+</div>
 
-<br/><br/>
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rushikeshspuri&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/rushikeshspuri?style=for-the-badge&color=1A6B8A&logo=github&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=rushikeshspuri&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS&abbreviated=true)
+![GitHub followers](https://img.shields.io/github/followers/rushikeshspuri?style=for-the-badge&color=006DAA&logo=github&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/rushikeshspuri?style=for-the-badge&color=0A2540&logo=github&label=STARS)
 
 </div>
 
 ---
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=rushikeshspuri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=00D4FF&icon_color=1A6B8A&text_color=C9D1D9&bg_color=0D1117&border_radius=12" />
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; About Me
 
-## 🙋 Who Am I?
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rushikeshspuri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=00B4D8&icon_color=006DAA&text_color=CDD6F4&bg_color=0D1117&border_radius=10&include_all_commits=true&count_private=true" />
 
-```js
-const rushikesh = {
-  name    : "Rushikesh Puri",
-  from    : "Maharashtra, India 🇮🇳",
-  status  : "Engineering student → Future SWE",
-  focus   : ["Logic Building", "Clean Code", "DSA"],
-  hobbies : ["Coding daily", "Problem solving"],
-  goal    : "Become a great Software Engineer"
-};
+```yaml
+👤 Name       : Rushikesh Puri
+🌍 Location   : Maharashtra, India
+🎓 Status     : CS Student & Daily Coder
+💡 Approach   : Logic First — Syntax Second
+🔁 Habit      : Code → Push → Repeat
+🎯 Goal       : Software Engineer
+📬 Email      : rushikesh.puri7499@gmail.com
 ```
 
-> I treat GitHub as my **public learning journal**.  
-> Every commit = proof I showed up that day.
+<br/>
+
+### I believe in:
+- 🧱 **Building strong fundamentals** before jumping to frameworks
+- 📅 **Consistency over intensity** — daily commits matter
+- 🗃️ **Organized code** — structure is as important as logic
+- 🌱 **Learning in public** — this GitHub is my open journal
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark&perline=4" />
+### 🔤 Languages I Work With
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web & Database
-<img src="https://skillicons.dev/icons?i=html,css,mongodb,mysql&theme=dark&perline=4" />
+### 🌐 Web & Database
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Dev Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark&perline=4" />
+### 🛠️ Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,mysql,mongodb,git,github,vscode,idea&theme=dark&perline=12" />
 
 </div>
 
 ---
 
-## 📊 Learning Progress
+## 📊 Skill Proficiency
 
 <div align="center">
 
-| 🔤 Language | 📚 Focus Area | 📈 Progress | 🔖 Status |
-|:-----------:|:-------------:|:-----------:|:---------:|
-| **C** | Pointers · Memory · Logic | `████████░░` 80% | 🟢 Active |
-| **C++** | OOP · STL · Problem Solving | `██████░░░░` 60% | 🟢 Active |
-| **Java** | Core · OOP · DSA | `██████░░░░` 60% | 🟢 Active |
-| **JavaScript** | DOM · ES6+ · Web | `████░░░░░░` 40% | 🟡 Building |
-| **MySQL** | Queries · Schema | `████░░░░░░` 40% | 🟡 Learning |
-| **MongoDB** | CRUD · NoSQL | `███░░░░░░░` 30% | 🔵 Starting |
+| Language | Proficiency | Focus |
+|:---:|:---:|:---:|
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | `▓▓▓▓▓▓▓▓░░` **80%** | Pointers · Memory · File I/O |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | `▓▓▓▓▓▓░░░░` **60%** | OOP · STL · Templates |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | `▓▓▓▓▓▓░░░░` **60%** | Core · Collections · DSA |
+| ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `▓▓▓▓░░░░░░` **40%** | DOM · ES6+ · Async |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | `▓▓▓▓░░░░░░` **40%** | Queries · Joins · Schema |
 
 </div>
 
 ---
 
-## 🗺️ My Engineering Roadmap
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                  MY JOURNEY MAP                         │
-│                                                         │
-│  [✅] C Programming    ──→  Memory, Logic, Algorithms   │
-│         ↓                                               │
-│  [✅] Logic Building   ──→  Patterns, Dry-run, Think    │
-│         ↓                                               │
-│  [🔄] C++ & OOP       ──→  Classes, Inheritance, STL   │
-│         ↓                                               │
-│  [🔄] Core Java       ──→  OOP, Collections, Streams   │
-│         ↓                                               │
-│  [⏳] JavaScript      ──→  Web, DOM, Async/Await        │
-│         ↓                                               │
-│  [⏳] Real Projects   ──→  Build → Deploy → Learn       │
-│         ↓                                               │
-│  [🎯] SOFTWARE ENGINEER ← — — — THE DESTINATION         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📂 Repository Structure
-
-> **One repo. All languages. Perfect organization.**
-
-<div align="center">
-<a href="https://github.com/rushikeshspuri/Programming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rushikeshspuri&repo=Programming&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=1A6B8A&text_color=C9D1D9&bg_color=0D1117&border_radius=12" />
-</a>
-</div>
-
-```
-📦 rushikeshspuri/Programming
- ├── 📁 C_Programming/
- │    ├── 📂 Practice/        ─→  Daily drills & logic programs
- │    ├── 📂 Competitive/     ─→  Assignment & coding problems  
- │    └── 📂 Project/         ─→  Real-world C projects
- │
- ├── 📁 Java_Programming/
- │    ├── 📂 Practice/
- │    ├── 📂 Competitive/
- │    └── 📂 Project/
- │
- ├── 📁 CPP_Programming/
- │    ├── 📂 Practice/
- │    ├── 📂 Competitive/
- │    └── 📂 Project/
- │
- └── 📁 JavaScript_Programming/
-      ├── 📂 Practice/
-      ├── 📂 Competitive/
-      └── 📂 Project/
-```
-
----
-
-## 📡 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshspuri&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=1A6B8A&fire=F59E0B&currStreakLabel=00D4FF&background=0D1117&border_radius=12" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshspuri&theme=tokyonight&hide_border=true&layout=compact&title_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&border_radius=12&langs_count=6" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshspuri&theme=tokyonight&hide_border=true&stroke=00B4D8&ring=006DAA&fire=F59E0B&currStreakLabel=00B4D8&background=0D1117&border_radius=10" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshspuri&theme=tokyonight&hide_border=true&layout=compact&title_color=00B4D8&text_color=CDD6F4&bg_color=0D1117&border_radius=10&langs_count=6" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshspuri&theme=tokyo-night&hide_border=true&area=true&color=00D4FF&line=1A6B8A&point=00D4FF&area_color=1A6B8A" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshspuri&theme=tokyo-night&hide_border=true&area=true&color=00B4D8&line=006DAA&point=00B4D8&area_color=003566&radius=6" />
 
 </div>
 
@@ -161,33 +122,135 @@ const rushikesh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=rushikeshspuri&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+</div>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=rushikeshspuri&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+
+> *Watch the snake eat my contributions! 🎮*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushikeshspuri/rushikeshspuri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushikeshspuri/rushikeshspuri/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rushikeshspuri/rushikeshspuri/output/github-snake.svg" width="96%" />
+</picture>
+
+> **⚙️ Setup needed:** Create a GitHub Action in your profile repo to generate the snake. See instructions below 👇
 
 </div>
 
 ---
 
-## 💡 My Coding Philosophy
+## 🗺️ My Journey Roadmap
+
+```
+                    ╔══════════════════════════════════════════╗
+                    ║    RUSHIKESH'S ENGINEERING ROADMAP       ║
+                    ╚══════════════════════════════════════════╝
+
+   [✅ DONE]   ──►  C Programming
+                     └─ Pointers · Arrays · Functions · File I/O
+
+   [✅ DONE]   ──►  Logic & Problem Solving
+                     └─ Patterns · Recursion · Dry Run · Think
+
+   [🔄 NOW]    ──►  C++ & OOP
+                     └─ Classes · Inheritance · STL · Templates
+
+   [🔄 NOW]    ──►  Core Java
+                     └─ OOP · Collections · Exceptions · Streams
+
+   [⏳ NEXT]   ──►  JavaScript & Web Development
+                     └─ DOM · ES6+ · Async/Await · Fetch API
+
+   [⏳ SOON]   ──►  Real-World Projects
+                     └─ Build → Test → Deploy → Ship → Repeat
+
+   [🎯 GOAL]   ──►  ★  SOFTWARE  ENGINEER  ★
+                     └─ The destination. The mission. The dream.
+```
+
+---
+
+## 📂 Repository Architecture
+
+<div align="center">
+
+<a href="https://github.com/rushikeshspuri/Programming">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rushikeshspuri&repo=Programming&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=006DAA&text_color=CDD6F4&bg_color=0D1117&border_radius=10" />
+</a>
+
+</div>
+
+<br/>
+
+```
+📦 rushikeshspuri / Programming
+│
+├── 📁 C_Programming
+│   ├── 📂 Practice        →  Logic drills, daily programs, exercises
+│   ├── 📂 Competitive     →  Assignment solutions, coding problems
+│   └── 📂 Project         →  Complete C-based real projects
+│
+├── 📁 Java_Programming
+│   ├── 📂 Practice        →  OOP practice, core Java programs
+│   ├── 📂 Competitive     →  DSA & assignment solutions
+│   └── 📂 Project         →  Java applications
+│
+├── 📁 CPP_Programming
+│   ├── 📂 Practice        →  C++ and OOP drills
+│   ├── 📂 Competitive     →  STL & problem solutions
+│   └── 📂 Project         →  C++ real-world builds
+│
+└── 📁 JavaScript_Programming
+    ├── 📂 Practice        →  DOM, ES6+, async practice
+    ├── 📂 Competitive     →  JS challenges
+    └── 📂 Project         →  Web projects
+```
+
+---
+
+## 💭 My Coding Philosophy
 
 <div align="center">
 
 ```c
-/* Rushikesh's approach to programming */
+/*
+ * Author  : Rushikesh Puri
+ * File    : philosophy.c
+ * Purpose : How I approach programming
+ */
 
+#include <stdio.h>
 #include <discipline.h>
 #include <patience.h>
 #include <curiosity.h>
 
+#define SUCCESS  "Software Engineer"
+#define SHORTCUT false
+
 int main() {
-    while (life) {
-        understand_before_memorizing();
-        practice_until_it_clicks();
-        build_something_real();
-        commit_to_github();
-        repeat();
+
+    while (!reached(SUCCESS)) {
+
+        if (SHORTCUT) {
+            continue;  /* there are none */
+        }
+
+        understand_the_concept();
+        write_the_code();
+        debug_without_fear();
+        push_to_github();
+        sleep(8);  /* rest is part of the process */
+
     }
-    return SOFTWARE_ENGINEER;
+
+    printf("I made it. 🎯\n");
+    return 0;
 }
 ```
 
@@ -195,31 +258,109 @@ int main() {
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus — Week's Goals
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-rushikesh.puri7499@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:rushikesh.puri7499@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rushikesh~puri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/rushikesh~puri)
-[![X / Twitter](https://img.shields.io/badge/X-Rushi__codes-FFFFFF?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://x.com/Rushi_codes)
-[![Instagram](https://img.shields.io/badge/Instagram-30__rushii-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/30_rushii)
+| # | Task | Status |
+|:---:|:---|:---:|
+| 01 | Complete C++ OOP module | 🔄 In Progress |
+| 02 | Daily Java practice (30 min/day) | 🔄 In Progress |
+| 03 | Solve 5 logic problems this week | ⏳ Pending |
+| 04 | Push code every single day | ✅ Doing |
+| 05 | Document code with comments | ⏳ Pending |
 
 </div>
 
 ---
 
+## 🌐 Let's Connect
+
 <div align="center">
 
-### 🔥 Current Vibe
+<a href="mailto:rushikesh.puri7499@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/rushikesh~puri">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/Rushi_codes">
+  <img src="https://img.shields.io/badge/🐦_X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://instagram.com/30_rushii">
+  <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-> *"Every expert was once a beginner. Every pro was once an amateur.*  
-> *Every master was once a disaster."*
+<br/><br/>
 
-**I'm in the middle of my story. Watch the ending. 👀**
+> 💬 *"I'm always open to connect with fellow learners, developers, and anyone who loves clean code."*
+
+</div>
+
+---
+
+## ⚙️ Snake Animation Setup (One-Time)
+
+<details>
+<summary><b>👆 Click to see how to activate the contribution snake on your profile</b></summary>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D4FF,50:1A6B8A,100:0D1117&fontColor=FFFFFF&animation=twinkling" />
+**1. In your profile repo (`rushikeshspuri/rushikeshspuri`), create this file:**
+
+`.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**2. Go to Actions tab → Run workflow manually once**
+
+**3. The snake SVG will be available at:**
+`https://raw.githubusercontent.com/rushikeshspuri/rushikeshspuri/output/github-snake.svg`
+
+</details>
+
+---
+
+<div align="center">
+
+### 🔥 Remember This
+
+> *"The expert in anything was once a beginner.*  
+> *The difference? They didn't stop."*
+
+<br/>
+
+**Learning every day. Building step by step. Becoming a Software Engineer.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00B4D8,50:006DAA,100:0D1117&animation=twinkling" />
 
 </div>
