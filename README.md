@@ -37,7 +37,7 @@
 
 ```yaml
 👤 Name       : Rushikesh Puri
-🌍 Location   : Maharashtra, India
+🌍 Location   : Pune, Maharashtra, India
 🎓 Status     : CS Student & Daily Coder
 💡 Approach   : Logic First — Syntax Second
 🔁 Habit      : Code → Push → Repeat
@@ -47,7 +47,7 @@
 
 <br/>
 
-### I believe in:
+ I believe in:
 - 🧱 **Building strong fundamentals** before jumping to frameworks
 - 📅 **Consistency over intensity** — daily commits matter
 - 🗃️ **Organized code** — structure is as important as logic
