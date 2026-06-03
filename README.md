@@ -143,7 +143,7 @@
    [✅ DONE]  ──►  C++ & OOP
                      └─ Classes · Inheritance · STL · Templates
 
-   [✅ DONE]  ──►  Core Java
+   [✅ DONE]  ──►  Java
                      └─ OOP · Collections · Exceptions · Streams
 
    [⏳ NEXT]   ──►  JavaScript & Web Development
