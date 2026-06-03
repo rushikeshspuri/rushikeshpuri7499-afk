@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:0A2540,50:003566,75:006DAA,100:00B4D8&text=Rushikesh%20Puri&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=💻%20Code%20%7C%20🧠%20Logic%20%7C%20🚀%20Engineer%20in%20Progress&descSize=20&descAlignY=58&animation=fadeIn&stroke=00B4D8&strokeWidth=1.5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0a0010,30:1a0033,65:3d0066,100:6600cc&text=Rushikesh%20Puri&fontColor=e0aaff&fontSize=62&fontAlignY=50&fontAlign=50&desc=Code%20%7C%20Logic%20%7C%20Engineer%20in%20Progress&descSize=18&descAlignY=72&descAlign=50&animation=blinking&stroke=c77dff&strokeWidth=1.5" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🔥+Hey+there%2C+I'm+Rushikesh+Puri!;💻+Learning+C+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;🧠+Logic+Builder+%7C+Daily+Coder;📂+My+GitHub+%3D+My+Learning+Journal;🎯+Destination%3A+Software+Engineer)](https://github.com/rushikeshspuri)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=c77dff&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🔥+Hey+there%2C+I'm+Rushikesh+Puri!;💻+Learning+C+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;🧠+Logic+Builder+%7C+Daily+Coder;📂+My+GitHub+%3D+My+Learning+Journal;🎯+Destination%3A+Software+Engineer)](https://github.com/rushikeshspuri)
 
 </div>
 
@@ -23,9 +23,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rushikeshspuri&style=for-the-badge&color=00B4D8&label=PROFILE+VIEWS&abbreviated=true)
-![GitHub followers](https://img.shields.io/github/followers/rushikeshspuri?style=for-the-badge&color=006DAA&logo=github&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/rushikeshspuri?style=for-the-badge&color=0A2540&logo=github&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=rushikeshspuri&style=for-the-badge&color=6600cc&label=PROFILE+VIEWS&abbreviated=true)
+![GitHub followers](https://img.shields.io/github/followers/rushikeshspuri?style=for-the-badge&color=9d4edd&logo=github&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/rushikeshspuri?style=for-the-badge&color=3d0066&logo=github&label=STARS)
 
 </div>
 
@@ -33,11 +33,11 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; About Me
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rushikeshspuri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=00B4D8&icon_color=006DAA&text_color=CDD6F4&bg_color=0D1117&border_radius=10&include_all_commits=true&count_private=true" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rushikeshspuri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff&bg_color=0a0010&border_radius=10" />
 
 ```yaml
 👤 Name       : Rushikesh Puri
-🌍 Location   : Pune, Maharashtra, India
+🌍 Location   : Maharashtra, India
 🎓 Status     : CS Student & Daily Coder
 💡 Approach   : Logic First — Syntax Second
 🔁 Habit      : Code → Push → Repeat
@@ -47,7 +47,7 @@
 
 <br/>
 
- I believe in:
+### I believe in:
 - 🧱 **Building strong fundamentals** before jumping to frameworks
 - 📅 **Consistency over intensity** — daily commits matter
 - 🗃️ **Organized code** — structure is as important as logic
@@ -107,13 +107,13 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshspuri&theme=tokyonight&hide_border=true&stroke=00B4D8&ring=006DAA&fire=F59E0B&currStreakLabel=00B4D8&background=0D1117&border_radius=10" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshspuri&theme=tokyonight&hide_border=true&stroke=c77dff&ring=9d4edd&fire=e0aaff&currStreakLabel=c77dff&background=0a0010&border_radius=10" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshspuri&theme=tokyonight&hide_border=true&layout=compact&title_color=00B4D8&text_color=CDD6F4&bg_color=0D1117&border_radius=10&langs_count=6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshspuri&theme=tokyonight&hide_border=true&layout=compact&title_color=c77dff&text_color=e0aaff&bg_color=0a0010&border_radius=10&langs_count=6" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshspuri&theme=tokyo-night&hide_border=true&area=true&color=00B4D8&line=006DAA&point=00B4D8&area_color=003566&radius=6" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshspuri&theme=tokyo-night&hide_border=true&area=true&color=c77dff&line=9d4edd&point=e0aaff&area_color=3d0066&radius=6" />
 
 </div>
 
@@ -181,7 +181,7 @@
 <div align="center">
 
 <a href="https://github.com/rushikeshspuri/Programming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rushikeshspuri&repo=Programming&theme=tokyonight&hide_border=true&title_color=00B4D8&icon_color=006DAA&text_color=CDD6F4&bg_color=0D1117&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rushikeshspuri&repo=Programming&theme=tokyonight&hide_border=true&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff&bg_color=0a0010&border_radius=10" />
 </a>
 
 </div>
@@ -361,6 +361,6 @@ jobs:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00B4D8,50:006DAA,100:0D1117&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6600cc,50:3d0066,100:0a0010&animation=twinkling" />
 
 </div>
