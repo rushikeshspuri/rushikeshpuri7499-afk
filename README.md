@@ -281,52 +281,8 @@ int main() {
 
 ---
 
-## ⚙️ Snake Animation Setup (One-Time)
-
-<details>
-<summary><b>👆 Click to see how to activate the contribution snake on your profile</b></summary>
 
 <br/>
-
-**1. In your profile repo (`rushikeshspuri/rushikeshspuri`), create this file:**
-
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**2. Go to Actions tab → Run workflow manually once**
-
-**3. The snake SVG will be available at:**
-`https://raw.githubusercontent.com/rushikeshspuri/rushikeshspuri/output/github-snake.svg`
-
-</details>
 
 ---
 
