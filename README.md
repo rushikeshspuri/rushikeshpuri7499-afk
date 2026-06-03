@@ -37,7 +37,7 @@
 
 ```yaml
 👤 Name       : Rushikesh Puri
-🌍 Location   : Maharashtra, India
+🌍 Location   : Pune, Maharashtra, India
 🎓 Status     : CS Student & Daily Coder
 💡 Approach   : Logic First — Syntax Second
 🔁 Habit      : Code → Push → Repeat
@@ -127,24 +127,6 @@
 
 ---
 
-## 🐍 My Contribution Snake
-
-<div align="center">
-
-> *Watch the snake eat my contributions! 🎮*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushikeshspuri/rushikeshspuri/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushikeshspuri/rushikeshspuri/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rushikeshspuri/rushikeshspuri/output/github-snake.svg" width="96%" />
-</picture>
-
-> **⚙️ Setup needed:** Create a GitHub Action in your profile repo to generate the snake. See instructions below 👇
-
-</div>
-
----
-
 ## 🗺️ My Journey Roadmap
 
 ```
@@ -155,13 +137,13 @@
    [✅ DONE]   ──►  C Programming
                      └─ Pointers · Arrays · Functions · File I/O
 
-   [✅ DONE]   ──►  Logic & Problem Solving
+   [🔄 NOW]   ──►  Logic & Problem Solving
                      └─ Patterns · Recursion · Dry Run · Think
 
-   [🔄 NOW]    ──►  C++ & OOP
+   [✅ DONE]  ──►  C++ & OOP
                      └─ Classes · Inheritance · STL · Templates
 
-   [🔄 NOW]    ──►  Core Java
+   [✅ DONE]  ──►  Core Java
                      └─ OOP · Collections · Exceptions · Streams
 
    [⏳ NEXT]   ──►  JavaScript & Web Development
