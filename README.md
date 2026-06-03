@@ -1,196 +1,161 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:14B8A6&text=Rushikesh%20Puri&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Programming%20Journey%20%7C%20Logic%20Building%20%7C%20Future%20Software%20Engineer&descAlignY=58&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Learning+programming+step+by+step;Building+logic+through+daily+practice;Organizing+my+code+like+a+professional;Working+towards+becoming+a+good+software+engineer" />
-
-<br>
-
-<a href="https://github.com/rushikeshspuri/Programming">
-  <img src="https://img.shields.io/badge/Main%20Repository-Programming-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:rushikesh.puri7499@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rushikesh.puri7499%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=rushikeshspuri&style=for-the-badge&color=2563EB" />
-<img src="https://img.shields.io/github/followers/rushikeshspuri?style=for-the-badge&color=14B8A6&logo=github" />
+<!-- TERMINAL HEADER BLOCK -->
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  $ whoami                                                        ║
+║  > rushikesh_puri                                                ║
+║                                                                  ║
+║  $ cat mission.txt                                               ║
+║  > Building logic. Writing clean code. Becoming an engineer.     ║
+║                                                                  ║
+║  $ status                                                        ║
+║  > [■■■■■■░░░░] 60% — Learning. Growing. Building.              ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## About Me
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=rushikeshspuri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=38BDF8&icon_color=14B8A6&text_color=CBD5E1&bg_color=0F172A" />
 
-I am Rushikesh Puri, a programming learner focused on logic building, clean code organization, and consistent practice. My GitHub is my public learning space where I upload programs, assignments, practice work, and future projects as I grow into a skilled software engineer.
-
-My goal is simple: learn deeply, practice daily, build useful projects, and become a good software engineer with strong fundamentals.
+### 👋 Hey, I'm **Rushikesh Puri**
 
 ```c
-while (learning) {
-    practice();
-    build_logic();
-    improve_code();
-    stay_consistent();
-}
+Engineer_in_progress {
+    location   : "Maharashtra, India",
+    currently  : "Mastering C & Java",
+    philosophy : "Logic first, syntax second",
+    commits    : "Daily — no exception"
+};
 ```
 
----
+I don't just write code — I **dissect it**, understand it, and rebuild it.  
+My GitHub is a living record of that process.
 
-## My GitHub Purpose
-
-<table>
-  <tr>
-    <td><b>Practice</b></td>
-    <td>Upload daily programs and strengthen problem-solving skills.</td>
-  </tr>
-  <tr>
-    <td><b>Competitive</b></td>
-    <td>Store assignment solutions, coding questions, and logic-building problems.</td>
-  </tr>
-  <tr>
-    <td><b>Projects</b></td>
-    <td>Build real projects as I improve my programming and software development skills.</td>
-  </tr>
-  <tr>
-    <td><b>Growth</b></td>
-    <td>Track my journey from beginner programs to professional-level software work.</td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## Programming Repository
+## 🧠 The Learning Stack
 
 <div align="center">
 
+| Layer | Language | Purpose | Status |
+|-------|----------|---------|--------|
+| 🔩 Foundation | **C** | Pointers, memory, raw logic | `Active` |
+| ⚙️ Structure | **C++** | OOP, STL, problem solving | `Active` |
+| ☕ Enterprise | **Java** | Core programming, data structures | `Active` |
+| 🌐 Web | **JavaScript** | Frontend, DOM, async | `Building` |
+| 🗄️ Data | **MySQL · MongoDB** | Storage & queries | `Learning` |
+
+</div>
+
+---
+
+## 🗂️ Repository Architecture
+
+> Everything lives inside one clean, structured repo → **[rushikeshspuri/Programming](https://github.com/rushikeshspuri/Programming)**
+
+```
+📦 Programming/
+ ┣ 📁 C_Programming/
+ ┃  ┣ 📂 Practice/        ← Daily programs & logic drills
+ ┃  ┣ 📂 Competitive/     ← Assignment & problem solutions
+ ┃  └ 📂 Project/         ← Real builds
+ ┣ 📁 Java_Programming/
+ ┃  ┣ 📂 Practice/
+ ┃  ┣ 📂 Competitive/
+ ┃  └ 📂 Project/
+ ┣ 📁 CPP_Programming/
+ ┗ 📁 JavaScript_Programming/
+```
+
+<div align="center">
 <a href="https://github.com/rushikeshspuri/Programming">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rushikeshspuri&repo=Programming&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rushikeshspuri&repo=Programming&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=14B8A6&text_color=CBD5E1&bg_color=0F172A" />
 </a>
+</div>
+
+---
+
+## 📡 GitHub Signals
+
+<div align="center">
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshspuri&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=14B8A6&fire=F59E0B&currStreakLabel=38BDF8&background=0F172A" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshspuri&theme=tokyonight&hide_border=true&layout=compact&title_color=38BDF8&text_color=CBD5E1&bg_color=0F172A" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshspuri&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=14B8A6&point=F59E0B" />
 
 </div>
 
-```text
-Programming
-|-- C_programming
-|   |-- Practice
-|   |-- Competative
-|   `-- Project
-|-- java_programming
-|   |-- Practice
-|   |-- Competative
-|   `-- Project
-|-- C++_Programming
-|   |-- Practice
-|   |-- Competative
-|   `-- Project
-`-- Java_Script_Programming
-    |-- Practice
-    |-- Competative
-    `-- Project
+---
+
+## 🛣️ Engineering Roadmap
+
+```
+[✅] C Programming          →  Pointers, arrays, functions, file I/O
+[✅] Logic Building         →  Patterns, recursion, dry runs
+[🔄] C++ & OOP             →  Classes, inheritance, templates
+[🔄] Java Core             →  Collections, exceptions, JDBC
+[⏳] JavaScript & Web      →  DOM, ES6+, async/await
+[⏳] Real Projects         →  Build. Ship. Repeat.
+[🎯] Software Engineer     →  The destination
 ```
 
+> _"A year from now, you'll wish you had started today."_
+
 ---
 
-## Skills & Tools
+## 🔧 Tools I Use
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,mongodb,mysql,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,mysql,mongodb,git,github,vscode,idea&theme=dark" />
 
 </div>
 
-<br>
+---
 
-<table>
-  <tr>
-    <td align="center"><b>C</b><br>Logic building and fundamentals</td>
-    <td align="center"><b>C++</b><br>OOP and problem solving</td>
-    <td align="center"><b>Java</b><br>Core programming and structure</td>
-    <td align="center"><b>JavaScript</b><br>Web development</td>
-  </tr>
-  <tr>
-    <td align="center"><b>MongoDB</b><br>Database</td>
-    <td align="center"><b>MySQL</b><br>Database</td>
-    <td align="center"><b>VS Code</b><br>Code editor</td>
-    <td align="center"><b>IntelliJ IDEA</b><br>Java IDE</td>
-  </tr>
-</table>
+## 📬 Reach Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-rushikesh.puri7499%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rushikesh.puri7499@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rushikesh~puri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh~puri)
+&nbsp;
+[![X](https://img.shields.io/badge/X-Rushi__codes-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Rushi_codes)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-30__rushii-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/30_rushii)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rushikeshspuri&style=flat-square&color=38BDF8&label=Profile+Visits)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/rushikeshspuri?style=flat-square&color=14B8A6&logo=github&label=Followers)
+
+</div>
 
 ---
 
-## Learning Roadmap
+<div align="center">
 
-```mermaid
-flowchart LR
-    A["C Programming"] --> B["Logic Building"]
-    B --> C["C++ and OOP"]
-    C --> D["Java Programming"]
-    D --> E["JavaScript and Web"]
-    E --> F["Projects"]
-    F --> G["Software Engineer"]
+```
+while (!expert) {
+    read();
+    code();
+    debug();
+    repeat();
+}
+// I'm still in the loop. Intentionally.
 ```
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rushikeshspuri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshspuri&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikeshspuri&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## Current Focus
-
-<div align="center">
-
-| Focus Area | What I Am Doing |
-|---|---|
-| Programming | Practicing C, C++, Java, and JavaScript |
-| Logic Building | Solving programs from basic to advanced |
-| Organization | Keeping code structured inside one clean repository |
-| Projects | Preparing to build real-world software projects |
-| Career Goal | Becoming a good software engineer |
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="mailto:rushikesh.puri7499@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/rushikesh~puri">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/30_rushii">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://x.com/Rushi_codes">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<b>Learning every day. Building step by step. Growing into a software engineer.</b>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,50:2563EB,100:0F172A" />
+**— Rushikesh Puri · Building in public · [@rushikeshspuri](https://github.com/rushikeshspuri)**
 
 </div>
