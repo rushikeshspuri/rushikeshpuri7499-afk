@@ -13,6 +13,6 @@ If you're here, feel free to check out my pinned repositories.
 ### Fun Facts
 
 - 💻 Backend is my favorite domain.
-- 🐧 Linux is my daily operating system.
+- 🐧 Fedora Linux is my daily operating system.
 - ☕ I enjoy building projects more than watching tutorials.
 - 🚀 Always building something new.
