@@ -1,18 +1,65 @@
 # Hey there! 👋
 
-I'm **Rushikesh**, a software developer based in India.
+I'm **Rushikesh**, a Software Developer from India who enjoys building practical, scalable, and intelligent applications.
 
-I build backend applications and enjoy turning ideas into real-world projects.
+I work across **full-stack development, backend engineering, AI/ML, data science, and automation**, with a strong focus on turning ideas into real-world software.
 
-My primary stack includes **Java, Spring Boot, MongoDB, MySQL, Python, C, and C++**. I also work with Linux, Git, REST APIs, and backend development.
+### 🛠️ Tech Stack
 
-I've built multiple projects across different technologies and enjoy creating clean, reliable software.
+**Languages**
 
-If you're here, feel free to check out my pinned repositories.
+* Java
+* Python
+* C
+* C++
 
-### Fun Facts
+**Backend & Web**
 
-- 💻 Backend is my favorite domain.
-- 🐧 Fedora Linux is my daily operating system.
-- ☕ I enjoy building projects more than watching tutorials.
-- 🚀 Always building something new.
+* Spring Boot
+* REST APIs
+* Full Stack Development
+
+**Databases**
+
+* MongoDB
+* MySQL
+
+**AI & Data**
+
+* Data Science
+* Machine Learning
+* Deep Learning
+* Artificial Intelligence
+
+**Tools & Platforms**
+
+* Linux
+* Git & GitHub
+* VS Code
+* IntelliJ IDEA
+
+### 🚀 What I Build
+
+* Scalable backend and full-stack applications
+* RESTful APIs and backend services
+* Automation tools and utilities
+* Data-driven applications
+* AI/ML and data science projects
+* System-level and programming projects
+
+### 💻 Projects
+
+I enjoy building projects that solve practical problems and help me explore different areas of software engineering.
+
+Check out my **pinned repositories** to see some of my work.
+
+### ⚡ Fun Facts
+
+* 💻 I enjoy backend and software engineering.
+* 🐧 Fedora Linux is my daily operating system.
+* ☕ I prefer building projects over just watching tutorials.
+* 🚀 Always working on something new.
+
+### 📫 Connect With Me
+
+Feel free to explore my repositories, check out my projects, and connect with me.
