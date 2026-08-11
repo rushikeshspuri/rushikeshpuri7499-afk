@@ -8,10 +8,10 @@ I work across **full-stack development, backend engineering, AI/ML, data science
 
 **Languages**
 
-* Java
-* Python
 * C
 * C++
+* Java
+* Python
 
 **Backend & Web**
 
